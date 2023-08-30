@@ -1,0 +1,4 @@
+id,stage,close_date,start_date,end_date,value,product
+1,Deal Won,2022-04-05,2022-04-13,2022-12-01,112790,prod1
+2,Deal lost,2022-05-23,2022-06-23,2022-09-30,57040,prod1
+3,Evaluation,2022-03-23,2022-07-20,2022-09-30,33508,prod2
